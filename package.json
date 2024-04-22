@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/practica-js-vi/",
+    "build": "vite build --base=/practica-js-vite/",
     "preview": "vite preview"
   },
   "devDependencies": {
